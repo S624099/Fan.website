@@ -1,0 +1,49 @@
+body { 
+	Background-color: grey;
+}
+h1 {
+	color: #ECF0F1;
+	text-align: center;
+	font-family: Didot;
+}
+p {
+	color: White;
+}
+img {
+	width: 40%;
+	display: block;
+	margin: left;
+}
+
+iframe {
+	width: 40%;
+	display: block;
+	margin: right;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #B6B6B4;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #D3D3D3;
+}
+<img src="threelab.jpg" {
+
