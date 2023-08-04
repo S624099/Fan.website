@@ -10,9 +10,9 @@ p {
 	color: White;
 }
 img {
-	width: 40%;
-	display: block;
-	margin: left;
+	width: 30%;
+	display: inline-block;
+	scroll-margin-block: center;
 }
 
 }
@@ -20,7 +20,7 @@ img {
 iframe {
 	width: 40%;
 	display: block;
-	margin: right;
+	align-content: center;
 }
 
 
