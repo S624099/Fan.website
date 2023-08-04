@@ -19,14 +19,15 @@ img {
 }
 
 iframe {
-	width: 40%;
-	display: block;
-	align-content: center;
+	width: 560%;
+	height: 315;
+	align: center;
+	border: none;
 }
 
 
 ul {
-  list-style-type: none;
+  
   margin: 0;
   padding: 0;
   overflow: hidden;
