@@ -10,9 +10,9 @@ p {
 	color: White;
 }
 img {
-	width: 30%;
+	width: 33%;
 	display: inline-block;
-	scroll-margin-block: center;
+	align-content: center;
 }
 
 }
